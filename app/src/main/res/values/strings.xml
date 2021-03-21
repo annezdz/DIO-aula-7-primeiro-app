@@ -7,6 +7,7 @@
     <string name="calcular">Calcular</string>
     <string name="peso_hint">Peso (ex: 65.8 kg)</string>
     <string name="imc">IMC</string>
+    <string name="imcDesc">Índice de Massa Corporal</string>
     <string name="abaixo">Abaixo do Peso</string>
     <string name="obesidade_3">Obesidade III</string>
     <string name="obesidade_2">Obesidade II</string>
